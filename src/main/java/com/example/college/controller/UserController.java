@@ -13,6 +13,8 @@ public class UserController {
 
         String msg="Hi Good Morning....";
 
+        System.out.println("Hiiiiiiiiii");
+
         return msg;
     }
 
